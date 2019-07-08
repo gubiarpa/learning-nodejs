@@ -1,0 +1,6 @@
+En Google Chrome: chrome://inspect
+
+node --inspect-brk .\nodejs-tutos-p04\app.js
+Damos click a inspect en Google Chrome
+
+nodemon --inspect-brk .\nodejs-tutos-p04\app.js
