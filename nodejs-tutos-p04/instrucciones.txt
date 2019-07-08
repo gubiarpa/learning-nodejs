@@ -1,0 +1,16 @@
+node inspect app.js
+    - Ejecuta el archivo en modo Debug
+
+Ctrl + C
+    - Pausa la ejecución
+
+Algunas palabras reservadas:
+    - repl (Cuando se quiere evaluar una expresión)
+    - n (Siguiente instrucción)
+    - c (Avanza hasta punto de interrupción debugger)
+
+npm install -g nodemon
+    - Para debugger
+
+nodemon app.js // nodemon inspect app.js
+    - Vuelve a ejecutar el aplicativo cuando detecta cambios
