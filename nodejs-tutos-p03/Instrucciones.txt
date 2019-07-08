@@ -1,0 +1,14 @@
+npm -v
+    - Versión de npm
+
+npm install lodash (no recomendada)
+    - Instala el lodash
+
+npm init
+    - Inicializa el npm
+
+npm i lodash --save
+    - Que el módulo lodash se instale en nuestra aplicación y actualice el package.json
+
+npm install
+    - Instala todas las dependencias
