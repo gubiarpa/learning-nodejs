@@ -12,3 +12,6 @@ npm i lodash --save
 
 npm install
     - Instala todas las dependencias
+
+npm i yargs
+    - Instala el paquete para argumentos
